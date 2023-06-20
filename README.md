@@ -1,4 +1,5 @@
 # Queue-Buffer
+Simple C file using semaphores in order to enqueue and dequeue values (int) in a buffer that holds a maximum of 30 values at a time, and prints out values after they have all been dequeued from the buffer.
 # Test run in terminal
 [ddaugbjerg@bec315dl01 comp_280_repository]$ ./BufferWithSemaphores 100<br>
 producer starting<br>
